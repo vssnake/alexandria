@@ -34,6 +34,7 @@
         </activity>
 
         <activity android:name=".barcodereader.BarcodeCaptureActivity"
+            android:screenOrientation="portrait"
             android:label="Read Barcode"/>
 
         <provider
